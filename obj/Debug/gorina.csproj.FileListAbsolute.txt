@@ -1,0 +1,17 @@
+C:\Users\user.UIT\source\repos\gorina\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\user.UIT\source\repos\gorina\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\user.UIT\source\repos\gorina\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\user.UIT\source\repos\gorina\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\user.UIT\source\repos\gorina\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\user.UIT\source\repos\gorina\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\user.UIT\source\repos\gorina\bin\Debug\gorina.dll
+C:\Users\user.UIT\source\repos\gorina\bin\Debug\gorina.pdb
+C:\Users\user.UIT\source\repos\gorina\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\user.UIT\source\repos\gorina\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\user.UIT\source\repos\gorina\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\user.UIT\source\repos\gorina\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\user.UIT\source\repos\gorina\obj\Debug\gorina.csproj.AssemblyReference.cache
+C:\Users\user.UIT\source\repos\gorina\obj\Debug\gorina.csproj.CoreCompileInputs.cache
+C:\Users\user.UIT\source\repos\gorina\obj\Debug\gorina.csproj.CopyComplete
+C:\Users\user.UIT\source\repos\gorina\obj\Debug\gorina.dll
+C:\Users\user.UIT\source\repos\gorina\obj\Debug\gorina.pdb
